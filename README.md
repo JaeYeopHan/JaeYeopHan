@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <script>
-  document.querySelector('.f4.mb-2.text-normal').style.display = 'none')
-  </script>
+  document.querySelector('.f4.mb-2.text-normal').style.display = 'none'
+</script>
 
 <!--
 **JaeYeopHan/JaeYeopHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
